@@ -111,4 +111,11 @@
     git stash apply
     ```
 
+## Remotes
+
+- **Check Which Repositories are Connected Remotely**:
+    ```bash
+    git remote -v
+    ```
+
  🚀
