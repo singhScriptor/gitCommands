@@ -12,6 +12,12 @@
     git clone <repository-url>
     ```
 
+- **List Directories and Files**:
+    ```bash
+    ls
+    ```
+    
+
 ## Staging and Committing Changes
 
 - **Add Specific Files to Staging Area**:
