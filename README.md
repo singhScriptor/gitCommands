@@ -124,4 +124,22 @@
     git remote -v
     ```
 
+
+
+## Moving and Updating Files
+
+- **Move Files to a Different Directory**:
+    ```bash
+    mv <source-path> <destination-path>
+    ```
+
+- **Update Git After Moving Files**:
+    ```bash
+    git add <destination-path>
+    git rm <source-path>
+    git commit -m "Move files"
+    git push origin <branch-name>
+    ```
+    
+
  🚀
