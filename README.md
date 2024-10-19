@@ -81,6 +81,15 @@
     git branch -d <branch-name>
     ```
 
+
+## Deleting Remote Branch
+
+- **Delete a Remote Branch**:
+    ```bash
+    git push origin --delete master
+    ```
+    
+
 ## Merging and Syncing
 
 - **Merge a Branch into Current Branch**:
